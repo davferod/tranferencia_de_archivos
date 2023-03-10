@@ -1,0 +1,5 @@
+copia-file_transfer.py
+*.txt
+transfer.py
+transfer_extract.py
+*.ipynb
